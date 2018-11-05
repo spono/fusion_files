@@ -1,5 +1,6 @@
 # fusion_files
-Updated interface files for FUSION-LDV (USDA-FS, http://forsys.sefs.uw.edu/fusion/fusionlatest.html) on QGIS  2.x .
+This repository contains the updated files of the simple processing interface for [FUSION-LDV (USDA-Forest Service)](http://forsys.sefs.uw.edu/fusion/fusionlatest.html) on **QGIS  2.x** .
+
 
 The original folder 'lidar' in the installation path should be replaced with the folder provided here.
 I personally modified and updated the original files from the QGIS project and added some missing tools to comply with FUSION-LDV 3.70 .
